@@ -1,4 +1,4 @@
-# space-shooter
+# Space Shooter
 
 A simple 2D space shooter made in Rust with Macroquad.
 
