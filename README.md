@@ -1,6 +1,6 @@
 # Space Shooter
 
-2D space shooter made in Rust with Macroquad. 👾
+2D space shooter made with Rust and Macroquad. 👾
 
 **Download:** https://github.com/hexensemble/space-shooter/releases
 
