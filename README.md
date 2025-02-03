@@ -27,6 +27,3 @@ https://mq.agical.se
 
 Additional credits:
 https://mq.agical.se/credits.html
-
-Licence:
-https://mq.agical.se/copyright.html
