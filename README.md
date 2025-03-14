@@ -1,6 +1,6 @@
 # Space Shooter
 
-2D space shooter made with Rust and Macroquad. 👾
+2D space shooter built with Rust and Macroquad. 👾
 
 <br>
 
